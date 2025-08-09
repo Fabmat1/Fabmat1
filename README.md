@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Fabian 👋
 
-<!--
-**Fabmat1/Fabmat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Big fan of clean, efficient code and open source projects 💻  
+- Passionate about scientific programming in Python & C++ 🔬  
+- Experienced with astrophysics data analysis 🌌  
 
-Here are some ideas to get you started:
+- Always learning new tools and improving workflows 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my projects and connect!  
+
+(I use Arch, btw)
+
+
+[![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabmat1)](https://github.com/anuraghazra/github-readme-stats)
