@@ -1,5 +1,5 @@
 
 (I use Arch, btw)
 
-Also visit my website: fabianmattig.de
+Also visit my [Website](fabianmattig.de)!
 
